@@ -9,11 +9,13 @@ numpy = "*"
 pandas = "*"
 requests = "*"
 notebook = "*"
-pyinquirer = "*"
 pyfiglet = "*"
 alive-progress = "*"
 lxml = "*"
 openpyxl = "*"
+colorama = "*"
+termcolor = "*"
+pyinquirer = "*"
 
 [dev-packages]
 
